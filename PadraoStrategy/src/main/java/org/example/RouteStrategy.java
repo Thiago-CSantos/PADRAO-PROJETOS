@@ -1,5 +1,5 @@
 package org.example;
 
 public interface RouteStrategy {
-    void buildRoute(String a, String b);
+    public void buildRoute(String a, String b);
 }
