@@ -1,0 +1,5 @@
+S - Single responsibility(uma classe tem ter apenas uma motivo para mudar)
+O - Open/Close (uma classe deve ser aberta para extensão e fechada para mudanças)
+L - Liskov subtitution (As class deviradas devem ser substituíveis pela suas classes base)
+I - Interface segregation(Nenhuma class deve implementar há qual tem metodos que não vai utilizar)
+D- Dependency Inversion Principle(propõe que as entidades de nível superior não devam depender diretamente das entidades de nível inferior)
